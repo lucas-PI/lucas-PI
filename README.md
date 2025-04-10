@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Inacio
+# 😉 Lucas Inacio
 
 **`Desenvolvedora BackEnd`**
 
@@ -51,6 +51,7 @@ Me chamo Lucas Pereira Inacio, tenho 21 anos e sou natural do Ceára.Atualmente,
     width="40px"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
+<br/>
 <br/>
 
 ### 📊 Estatísticas
